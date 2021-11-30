@@ -1,0 +1,32 @@
+body{
+    background-color:azure;
+}
+.container {
+    margin: 20px auto;
+    width: 800px;
+    position: relative;
+}
+.nav{
+    position:-webkit-sticky;
+}
+.page {
+    height:800px;
+}
+ul {
+    display: block;
+}
+ul li{ 
+    float: left;
+    margin-right: 6px;
+    text-decoration: none;
+    list-style:none;
+}
+.one {
+    background-color: bisque;
+}
+.two {
+    background-color: coral;
+}
+.three {
+    background-color: darkslategrey;
+}
